@@ -7,7 +7,7 @@ export default function Home() {
         <h1 className="text-6xl font-bold text-zinc-100">
           Hello, I&apos;m Zelferion
         </h1>
-        <p className="text-2xl font-bold text-zinc-400 m-3">
+        <p className="text-2xl font-bold text-zinc-400 m-3 text-shadow-md">
           and I <span className="text-blue-700">suck</span> at coding
         </p>
         <p className="text-5xl font-bold m-20 text-zinc-100">
