@@ -11,7 +11,7 @@ export default function Home() {
           and I <span className="text-blue-700">suck</span> at coding
         </p>
         <p className="text-5xl font-bold m-20 text-zinc-300">
-          Oh i forgot to tell youthat <span  className="text-blue-700">I use Arch btw!</span>
+          Oh i forgot to tell you that <span  className="text-blue-700">I use Arch btw!</span>
         </p>
       </div>
       <div className="w-full px-12 pb-12">
