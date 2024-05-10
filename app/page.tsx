@@ -14,7 +14,7 @@ export default function Home() {
           Oh i forgot to tell you that <span  className="text-blue-700">I use Arch btw!</span>
         </p>
       </div>
-      <div className="w-full px-12 pb-12">
+      <div className="w-full px-8 pb-8">
         <p className="text-3xl text-zinc-100 text-center">
           I&apos;m using{" "}
           <span className="text-blue-700 font-bold">Next.js</span> because
