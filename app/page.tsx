@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex flex-col items-center justify-between min-h-screen bg-zinc-950">
       <div className="text-center mt-20"> {/* Adjusted margin top */}
         <h1 className="text-6xl font-bold text-zinc-100">
-          Hello, I&apos;m Zelferion
+          Hello, I&apos;m Zelferion test branch
         </h1>
         <p className="text-2xl font-bold text-zinc-400 m-3 textshadow-white1">
           and I <span className="text-blue-700">suck</span> at coding
