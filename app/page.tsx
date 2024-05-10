@@ -10,7 +10,7 @@ export default function Home() {
         <p className="text-2xl font-bold text-zinc-400 m-3">
           and I <span className="text-blue-700">suck</span> at coding
         </p>
-        <p className="text-5xl font-bold m-30 text-zinc-300">
+        <p className="text-5xl font-bold m-20 text-zinc-300">
           Oh i forgot to tell that <span className="text-blue-700">I use Arch btw!</span>
         </p>
       </div>
