@@ -13,7 +13,7 @@ export default function Home() {
       </div>
       <div className="absolute bottom-0 w-full">
         <p className="text-3xl text-zinc-100 px-12 pb-12 text-center">
-          and I&apos;m using{" "}
+          I&apos;m using{" "}
           <span className="text-blue-700 font-bold">Next.js</span> because{" "}
           <span className="text-green-800 font-bold">Vue.js </span>
           does not work for me lol
