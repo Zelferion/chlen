@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-zinc-950">
-      <div className="text-center">
+    <main className="flex min-h-screen flex-col items-center justify-start bg-zinc-950">
+      <div className="text-center mt-20"> {/* Adjusted margin top */}
         <h1 className="text-6xl font-bold text-zinc-100">
           Hello, I&apos;m Zelferion
         </h1>
