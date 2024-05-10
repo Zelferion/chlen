@@ -10,7 +10,6 @@ export default function Home() {
         <p className="text-2xl font-bold text-zinc-400 m-3">
           and I <span className="text-blue-700">suck</span> at coding
         </p>
-        <p>fjisd</p>
       </div>
       <div className="w-full absolute bottom-0 px-12 pb-12">
         <p className="text-3xl text-zinc-100 text-center">
