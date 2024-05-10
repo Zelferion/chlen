@@ -24,7 +24,7 @@ export default function Home() {
           and I'm using <span className="text-blue-700 font-bold">
             Next.js
           </span>{" "}
-          because <span className="text-green-700 font-bold">Vue.js </span>
+          because <span className="text-green-800 font-bold">Vue.js </span>
           does not work for me lol
         </p>
       </div>
