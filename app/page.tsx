@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-start bg-zinc-950">
+    <main className="flex flex-col items-center justify-between min-h-screen bg-zinc-950">
       <div className="text-center mt-20"> {/* Adjusted margin top */}
         <h1 className="text-6xl font-bold text-zinc-100">
           Hello, I&apos;m Zelferion
@@ -14,7 +14,7 @@ export default function Home() {
           Oh i forgot to tell that <span className="text-blue-700">I use Arch btw!</span>
         </p>
       </div>
-      <div className="w-full absolute bottom-0 px-12 pb-12">
+      <div className="w-full px-12 pb-12">
         <p className="text-3xl text-zinc-100 text-center">
           I&apos;m using{" "}
           <span className="text-blue-700 font-bold">Next.js</span> because
